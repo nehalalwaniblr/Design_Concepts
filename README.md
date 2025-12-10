@@ -1,3 +1,7 @@
+## Contents
+
+- [Distributed Key Value Store](#Distributed Key-Value Store (Spring Boot + MySQL))
+- [Airline Seat Booking – Concurrency Demonstration](#Airline-Seat-Booking–Concurrency-Demonstration) 
 # 🚀 Distributed Key-Value Store (Spring Boot + MySQL)
 
 > Ignite-inspired distributed caching & routing model running locally using Spring Boot, Java 21, and MySQL.
@@ -268,7 +272,7 @@ Future extensions:
 * Kafka partitions
 
 ---
-# ✈ Airline Seat Booking – Concurrency Demonstration (WITHOUT locks)
+# 🚀 Airline-Seat-Booking–Concurrency-Demonstration
 
 This module demonstrates how 120 concurrent users attempt to book 120 airline seats and why, without proper concurrency control, seat allocation can result in:
 
